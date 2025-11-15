@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+paramiko
+pydantic
+python-dotenv
+ftplib
