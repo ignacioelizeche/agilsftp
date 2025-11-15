@@ -1,5 +1,7 @@
 from fastapi import FastAPI
 from sftptools_app import app as sftp_app
+import uvicorn
+
 
 app = FastAPI(
     title="Main Dispatcher API",
